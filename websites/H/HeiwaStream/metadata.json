@@ -15,7 +15,7 @@
     "zelyon.xyz"
   ],
   "regExp": "^https?[:][/][/](?:www[.])?(?:heiwastream[.]fr|zelyon[.]xyz)(?:[/]|$)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "logo": "https://i.imgur.com/RWdxBEH.png",
   "thumbnail": "https://i.imgur.com/VRtNGUH.png",
   "color": "#e6a91a",
